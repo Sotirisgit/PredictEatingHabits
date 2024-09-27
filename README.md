@@ -1,7 +1,7 @@
 
-# Nearby Points of Interest for Pregnant Women
+# Near Points of Interest for Pregnant Women
 
-**Nearby Points of Interest** is an Android application designed specifically for pregnant women. It helps them monitor their health, predict food cravings, and find nearby restaurants that cater to these cravings. By leveraging real-time geolocation and health monitoring data, the app provides personalized restaurant suggestions that align with the dietary needs and cravings of its users.
+**Near Points of Interest** is an Android application designed specifically for pregnant women. It helps them monitor their health, predict food cravings, and find nearby restaurants that cater to these cravings. By leveraging real-time geolocation and health monitoring data, the app provides personalized restaurant suggestions that align with the dietary needs and cravings of its users.
 
 ## Features
 
