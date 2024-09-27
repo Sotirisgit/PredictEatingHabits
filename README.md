@@ -39,7 +39,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Below are various screenshots from the application, showcasing its features and user interface:
 
 ![Home Page](353500717_940335237227566_5110442465690988275_n.jpg)
-![User Profile](355469897_985579452630564_3919569544316404732_n.jpg)
+![User Profile](353657268_655327709785104_768210727102326564_n.jpg)
 ![Settings Menu](355490038_787222809620932_4717274138127579273_n.jpg)
 ![Detailed Info](355549308_814205703472727_8424889003063983106_n.jpg)
 ![Login Page](355605795_1213315752671781_5990843288836402004_n.jpg)
